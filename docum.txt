@@ -1,0 +1,2 @@
+hello this amna and i am student of computer science
+this is my first experience of using git 
